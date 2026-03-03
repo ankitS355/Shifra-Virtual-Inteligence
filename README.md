@@ -1,4 +1,9 @@
-# Shifra-Virtual-Inteligence </br>
-Owner:- Ankit sharma </br>
+🤖 Sifra Artificial Intelligence
 
-It works like Google Assistant. Whatever question we ask it, it will give us a detailed answer. and it will be provide detail about owner like about ankit sharma shortly
+Modern and responsive AI services landing page built using HTML, CSS, and JavaScript.
+The website showcases AI solutions, services, and features with a clean and professional UI design.
+
+🔗 Live Demo: https://ankitsifraartificialintteligence.netlify.app/
+
+Tech Stack: HTML | CSS | JavaScript
+👨‍💻 Developed by Ankit kumar Sharma
